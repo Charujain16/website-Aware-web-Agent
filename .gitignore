@@ -1,0 +1,6 @@
+.env
+/.venv/
+__pycache__/
+*_faiss.index
+*_texts.pkl
+*_meta.pkl

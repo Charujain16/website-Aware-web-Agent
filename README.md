@@ -96,7 +96,9 @@ The app will scrape the page, build or refresh the index if needed, retrieve rel
 
 Example:
 https://www.gutenberg.org/files/1342/1342-h/1342-h.htm
+
 https://www.python.org/about/
+
 https://myanimelist.net/anime/1/Cowboy_Bebop
 
 ## License
